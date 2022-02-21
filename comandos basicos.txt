@@ -1,0 +1,7 @@
+GIT HUB
+
+Comandos básicos!
+
+Copiar um repositório criado no GIT
+
+git clone + link
