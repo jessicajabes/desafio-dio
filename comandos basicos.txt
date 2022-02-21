@@ -5,3 +5,19 @@ Comandos básicos!
 Copiar um repositório criado no GIT
 
 git clone + link
+
+Procurar algum arquivo na pasta que n foi enviado ao git
+
+git status
+
+Comando que prepara todos os arquivos da pasta para serem enviados ao git
+
+git add .
+
+Comando que envia os arquivos preparados para o git
+
+git commit -m "inclusão de arquivos não enviados"
+
+Comando que atualiza a pag. do git
+
+git push origin main
